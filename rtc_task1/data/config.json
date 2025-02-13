@@ -1,0 +1,9 @@
+{
+  "server_name": "smtp.yandex.ru",
+  "server_port": "465",
+  "login": "",
+  "password": "",
+  "to": [
+    ""
+  ]
+}
